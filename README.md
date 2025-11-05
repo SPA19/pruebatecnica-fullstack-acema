@@ -78,7 +78,7 @@ Este proyecto implementa una API REST en Express.js y React(Vite) en la parte de
   npm run dev
 ```
 
-# Nota: Ejecutar en diferentes terminales cada carpeta del proyecto es decir backend y frontend, ejecutar en simultaneo
+**Nota: Ejecutar en diferentes terminales cada carpeta del proyecto es decir backend y frontend, ejecutar en simultaneo**
 
 ## 📊 Estructura de la Base de Datos
 
